@@ -1,0 +1,1 @@
+nome = input("ola quem e")
